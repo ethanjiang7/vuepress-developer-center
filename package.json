@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "npx vuepress dev docs",
+    "build": "npx vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
